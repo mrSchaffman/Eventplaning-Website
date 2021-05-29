@@ -1,0 +1,125 @@
+.Header {
+
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 100;
+    box-shadow: 0 4px 8px 0 rgba(170, 170, 170, 0.466);
+}
+
+body {
+    background-image: url(../images/BG_2800px_2800px.png);
+    background-position: center center;
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    
+
+}
+
+.title {
+    background-color: rgb(173, 173, 173);
+    height: 50%;
+    width: 40%;
+    position: relative;
+    top: 10px;
+    left: 10px;
+
+}
+
+.user {
+    background-color: transparent;
+    background-position: center center;
+    border-radius: 0.7ch;
+    position: relative;
+    height: 50%;
+    width: 90%;
+    left: 5%;
+    right: 5%;
+    top: 200px;
+
+}
+
+
+
+.user_kunde {
+    background-color: rgb(255, 255, 255);
+    border-radius: 0.7ch;
+    position: relative;
+    float: left;
+    opacity: 1;
+    box-shadow: 0 4px 8px 0 rgb(170, 170, 170);
+    height: 80%;
+    width: 44%;
+    left: 5%;
+    top: 10%;
+    text-align: center;
+}
+
+.user_Anbieter {
+    background-color: rgb(255, 255, 255);
+    border-radius: 0.7ch;
+    position: relative;
+    float: right;
+    opacity: 1;
+    box-shadow: 0 4px 8px 0 rgb(170, 170, 170);
+    height: 80%;
+    width: 44%;
+    right: 5%;
+    top: 10%;
+    text-align: center;
+}
+
+img {
+    position: relative;
+    height: 100%;
+    width: 100%;
+}
+
+div h1 {
+    position: relative;
+    font-size: 200%;
+    font-style: normal;
+    color: rgb(12, 97, 23);
+    left: 10%;
+    top: 10px;
+}
+
+footer {
+    position: relative;
+    bottom: 0px;
+}
+
+div.registrieren {
+
+    background-color: rgba(24, 212, 68, 0.397);
+    border-radius: 0.5ch;
+    float: left;
+    width: 44%;
+    height: 100%;
+    text-align: center;
+
+}
+
+div.einlogen {
+    position: relative;
+    background-color: rgba(24, 212, 68, 0.397);
+    border-radius: 0.5ch;
+    float: right;
+    width: 44%;
+    height: 100%;
+    text-align: center;
+
+
+}
+
+div.register_einlogen {
+    height: 30px;
+    width: 200px;
+    float: right;
+    margin-right: 5px;
+    background-color: transparent;
+
+
+}

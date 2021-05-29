@@ -1,0 +1,143 @@
+.Header {
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 100;
+  box-shadow: 0 4px 8px 0 rgba(170, 170, 170, 0.466);
+}
+.stadt_auswahl {
+  position: relative;
+  background-position: center center;
+  background-color: rgba(172, 172, 172, 0.295);
+  box-shadow: 0 4px 8px 0 rgb(170, 170, 170);
+  margin-top: 170;
+  margin-left: 10%;
+  margin-right: 10%;
+  height: 70%;
+  width: 80%;
+  border-radius: 0.6ch;
+}
+.stadtin_de_nahe_title {
+  text-align: left;
+  position: relative;
+  margin: 0px;
+  left: 2%;
+  width: 30%;
+  height: 5%;
+}
+.page_title{
+    position: relative;
+    text-align: center;
+    top: 100px;
+    left: 0px;
+    background-color: rgba(94, 255, 0, 0.527);
+    box-shadow: 0 4px 8px 0 rgb(117, 117, 117);
+    height: 5%;
+    width: 40%;
+    color: #000000;
+}
+.stadtin_entdecken_title {
+  text-align: left;
+  position: relative;
+  left: 2%;
+  width: 30%;
+  height: 5%;
+}
+.staedte_in_der_nahe {
+  background-color: transparent;
+  height: 40%;
+  margin-top: 0px;
+}
+.Stadt_entdecken {
+  background-color: transparent;
+  margin-top: 0px;
+  height: 40%;
+}
+.stadt_berlin {
+  position: relative;
+  float: left;
+  background-image: url(../images/berlin_600px_300px.png);
+  background-position: center center;
+  background-attachment: scroll;
+  background-repeat: no-repeat;
+  text-align: center;
+  box-shadow: 0 4px 8px 0 rgb(117, 117, 117);
+  border-radius: 0.7ch;
+  background-color: white;
+  height: 92%;
+  width: 31%;
+  top: 10px;
+  left: 2%;
+}
+.stadt_potsdam {
+  position: relative;
+  float: right;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgb(117, 117, 117);
+  background-image: url(../images/closed-sanssouci-970764_640.jpg);
+  background-position: center center;
+  background-attachment: scroll;
+  background-repeat: no-repeat;
+  text-align: center;
+  border-radius: 0.7ch;
+  height: 92%;
+  width: 31%;
+  left: -34.5%;
+  top: 10px;
+}
+.stadt_rostock {
+  position: relative;
+  float: right;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgb(117, 117, 117);
+  background-image: url(../images/rostock_600px_300px.png);
+  background-position: center center;
+  background-attachment: scroll;
+  background-repeat: no-repeat;
+  text-align: center;
+  border-radius: 0.7ch;
+  height: 92%;
+  width: 31%;
+  left: 29%;
+  top: 10px;
+}
+.stadt_Müchen {
+  position: relative;
+  float: left;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgb(117, 117, 117);
+  background-image: url(../images/munich_900px_300px.png);
+  background-position: center center;
+  background-attachment: scroll;
+  background-repeat: no-repeat;
+  text-align: center;
+  border-radius: 0.7ch;
+  height: 92%;
+  width: 47%;
+  left: 2%;
+  top: 10px;
+}
+.stadt_stuttgart {
+  position: relative;
+  float: right;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgb(117, 117, 117);
+  background-image: url(../images/stuttgart-900px-300px.jpg);
+  background-position: center center;
+  background-attachment: scroll;
+  background-repeat: no-repeat;
+  text-align: center;
+  border-radius: 0.7ch;
+  height: 92%;
+  width: 47%;
+  left: -2%;
+  top: 10px;
+}
+.h2_stadt {
+  position: relative;
+  color: white;
+  top: 35%;
+  text-shadow: 2px 2px 8px #000000;
+}
