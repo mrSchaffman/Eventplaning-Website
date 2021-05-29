@@ -58,7 +58,7 @@
 .stadt_berlin {
   position: relative;
   float: left;
-  background-image: url(../images/berlin_600px_300px.png);
+  background-image: url(../img/berlin_600px_300px.png);
   background-position: center center;
   background-attachment: scroll;
   background-repeat: no-repeat;
@@ -76,7 +76,7 @@
   float: right;
   background-color: white;
   box-shadow: 0 4px 8px 0 rgb(117, 117, 117);
-  background-image: url(../images/closed-sanssouci-970764_640.jpg);
+  background-image: url(../img/closed-sanssouci-970764_640.jpg);
   background-position: center center;
   background-attachment: scroll;
   background-repeat: no-repeat;
@@ -92,7 +92,7 @@
   float: right;
   background-color: white;
   box-shadow: 0 4px 8px 0 rgb(117, 117, 117);
-  background-image: url(../images/rostock_600px_300px.png);
+  background-image: url(../img/rostock_600px_300px.png);
   background-position: center center;
   background-attachment: scroll;
   background-repeat: no-repeat;
@@ -108,7 +108,7 @@
   float: left;
   background-color: white;
   box-shadow: 0 4px 8px 0 rgb(117, 117, 117);
-  background-image: url(../images/munich_900px_300px.png);
+  background-image: url(../img/munich_900px_300px.png);
   background-position: center center;
   background-attachment: scroll;
   background-repeat: no-repeat;
@@ -124,7 +124,7 @@
   float: right;
   background-color: white;
   box-shadow: 0 4px 8px 0 rgb(117, 117, 117);
-  background-image: url(../images/stuttgart-900px-300px.jpg);
+  background-image: url(../img/stuttgart-900px-300px.jpg);
   background-position: center center;
   background-attachment: scroll;
   background-repeat: no-repeat;

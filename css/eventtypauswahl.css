@@ -23,7 +23,7 @@
 .chill {
   position: relative;
   float: left;
-  background-image: url(../images/chill.png);
+  background-image: url(../img/chill.png);
   background-position: center center;
   background-attachment: scroll;
   background-repeat: no-repeat;
@@ -41,7 +41,7 @@
   float: right;
   background-color: white;
   box-shadow: 0 4px 8px 0 rgb(117, 117, 117);
-  background-image: url(../images/geburtstag_600px_300px.png);
+  background-image: url(../img/geburtstag_600px_300px.png);
   background-position: center center;
   background-attachment: scroll;
   background-repeat: no-repeat;
@@ -57,7 +57,7 @@
   float: right;
   background-color: white;
   box-shadow: 0 4px 8px 0 rgb(117, 117, 117);
-  background-image: url(../images/abschluss.png);
+  background-image: url(../img/abschluss.png);
   background-position: center center;
   background-attachment: scroll;
   background-repeat: no-repeat;
@@ -73,7 +73,7 @@
   float: left;
   background-color: white;
   box-shadow: 0 4px 8px 0 rgb(117, 117, 117);
-  background-image: url(../images/hochzeit.png);
+  background-image: url(../img/hochzeit.png);
   background-position: center center;
   background-attachment: scroll;
   background-repeat: no-repeat;
@@ -104,7 +104,7 @@
   float: left;
   background-color: white;
   box-shadow: 0 4px 8px 0 rgb(117, 117, 117);
-  background-image: url(../images/rente1.png);
+  background-image: url(../img/rente1.png);
   background-position: center center;
   background-attachment: scroll;
   background-repeat: no-repeat;
